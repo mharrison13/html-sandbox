@@ -5,6 +5,6 @@
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
-		<h1>An HTML Sandbox!</h1>
+		<h1>An HTML Sandbox</h1>
 	</body>
 </html>
