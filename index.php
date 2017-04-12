@@ -40,6 +40,29 @@
 				<li>regular work</li>
 			</ol>
 
+			<h2>Pets</h2>
+			<table>
+				<tr>
+					<th>Cats</th>
+					<th>Dogs</th>
+				</tr>
+				<tr>
+					<td>Tabby</td>
+					<td>BullDog</td>
+				</tr>
+				<tr>
+					<td>Persian</td>
+					<td>Beagle</td>
+				</tr>
+				<tr>
+					<td>Senator</td>
+					<td>Janitor</td>
+				</tr>
+				<tr>
+					<td>Grumpy</td>
+					<td>Happy</td>
+				</tr>
+			</table>
 		</main>
 
 	</body>
