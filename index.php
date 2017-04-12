@@ -23,6 +23,7 @@
 				<p>Give me all your tacos. Let’s do a beef and a chicken, and one with both. Carne asada on corn tortillas. Yeah, apparently the taco shack was robbed. They left the money but took the tacos. CARNITAS!! Tacos Al pastor/De Adobada are made of thin pork very day is taco ipsum tuesday. Say taco one more time. If you were a taco, would you eat yourself? Side of rice and beans, please. Can you put some peppers and onions on that? Tacos, again? This will be 5 times this week and it’s onvery day is taco ipsum tuesday. Say taco one more time. If you were a taco, would you eat yourself? Side of rice and beans, please. Can you put some peppers and onions on that? Tacos, again? This will be 5 times this week and it’s onsteaks seasoned with adobo seasoning.</p>
 			<img src="images/taco.jpg" alt="tacos are great" width="500"/>
 			<p>This is a link to Tacos: <a href="http://www.tacos.com" target="_blank">Tacos</a> </p>
+			<p>This is a link about me: <a href="about/index.php"</p>
 
 		</main>
 
